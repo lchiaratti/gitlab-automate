@@ -1,1 +1,1 @@
-# gitalab-automate
+# gitlab-automate
